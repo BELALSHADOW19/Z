@@ -1,7 +1,7 @@
 {
-  "name": "sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ",
+  "name": "𝙎ُِ𝙊ِّ𝙐ٓ𝙍ٍّ𝘾ٍَٖ𝙀َِ◌َٰ͜͡ ٍ𝙇َٰ𝘼ُ𝙑َٰ𝘼⚡️",
   "description": "A Telegram Bot to generate Telethon and Pyrogram String Session.",
-  "logo": "https://telegra.ph/file/654ddaf472f18b799600b.jpg",
+  "logo": "https://telegra.ph/file/a03d348779fe924f7e570.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/AnonymousX1025/StringGenBot",
+  "repository": "https://github.com/BELALSHADOW19/Z",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
